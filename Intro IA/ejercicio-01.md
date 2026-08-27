@@ -1,4 +1,5 @@
 # Ejercicio 01 — Aplicaciones de IA que uso o he usado
+## Nombre: Joel C. Flores Escalante
 
 ## Objetivo
 
@@ -22,7 +23,7 @@ Para cada una indica:
    **Uso:** Generación de material de clase, tanto presentaciones como material audiovisual. A diferencia de Gemini Notebook crea el material en base a las fuentes que tú le hayas proporcionado. Lo cual disminuye el alucinamiento y se tienen más control sobre la información.
 
 3. **Nombre: Deepseek**  
-   **Uso:** Lo uso para resolver problemas lógicos, matemáticos o como una segunda opción de verificación contra el resultado de Gemini. 
+   **Uso:** Lo uso para resolver problemas lógicos, matemáticos o como una segunda opción de verificación contra el resultado de Gemini. Cuando necesito un enfoque diferente en una investigación.
 
 ## Criterios
 
