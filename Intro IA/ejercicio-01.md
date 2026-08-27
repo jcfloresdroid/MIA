@@ -16,13 +16,13 @@ Para cada una indica:
 ## Formato sugerido
 
 1. **Nombre: Gemini**  
-   **Uso**: Lo utilizo para investigar y consultar temas 
+   **Uso**: Lo utilizo para investigar y consultar temas de programación, servidores de red, inteligencia artificial y en general de mis clases. Generó contenido y automatizo tareas de la clase, como verificar videos. En UACAM la principal herramienta de clases es classroom y su ecosistema. Gemini ya viene integrado con classroom al igual q Notebool LM. 
 
-2. **Nombre:**  
-   **Uso:**
+2. **Nombre: Notebook LM**  
+   **Uso:** Generación de material de clase, tanto presentaciones como material audiovisual. A diferencia de Gemini Notebook crea el material en base a las fuentes que tú le hayas proporcionado. Lo cual disminuye el alucinamiento y se tienen más control sobre la información.
 
-3. **Nombre:**  
-   **Uso:**
+3. **Nombre: Deepseek**  
+   **Uso:** Lo uso para resolver problemas lógicos, matemáticos o como una segunda opción de verificación contra el resultado de Gemini. 
 
 ## Criterios
 
