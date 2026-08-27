@@ -16,7 +16,7 @@ Para cada una indica:
 ## Formato sugerido
 
 1. **Nombre: Gemini**  
-   **Uso: Lo utilizo para investigar y consultar temas **
+   **Uso**: Lo utilizo para investigar y consultar temas 
 
 2. **Nombre:**  
    **Uso:**
