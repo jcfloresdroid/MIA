@@ -44,4 +44,13 @@ El modelo 05 basado en metas de igual manera lo logra a los 21 pasos con un scor
 El modelo 06 basado en metas de igual manera lo logra a los 11 pasos con un score de 989.00.
 ![Texto alternativo](./imagenes/08.png)
 
+## Reporte:
 
+***¿Qué agentes lograron salir con el oro en tu mapa y cuáles no?***
+
+R= Para la primera configuración mi_cueva_jcfe_4x4.yaml ningún agente lo logró incluso configurando a 500 pasos. 
+Para la segunda configuración mi_cueva_jcfe2_4x4.yaml a excepción del agente simple por reflejo, todos los demás agentes lo lograrón. 
+
+¿Por qué el agente de reflejo simple falla (o tiene suerte) en tu diseño?
+
+¿Cómo cambia el resultado del agente basado en modelo si acercas o alejas un pit de la casilla inicial?
