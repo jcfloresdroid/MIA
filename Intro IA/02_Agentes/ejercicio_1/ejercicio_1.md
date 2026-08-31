@@ -7,7 +7,7 @@ Nombre del archivo de la configuración: mi_cueva_jcfe_4x4.yaml
 
 ### Ejecución de "python 01_wumpus_world.py"
 En este paso se muestra que se cargo la nueva configuración.
-![Texto alternativo](./imagenes/01-Keyboard-01.png)
+![Texto alternativo](./imagenes/01.png)
 
 
 
