@@ -18,7 +18,7 @@ En este caso jugamos como humanos con el nuevo mundo usando el teclado el result
 En este caso el agente de reflejo simple llego a los 200 pasos y no termino con éxito.
 ![Texto alternativo](./imagenes/03.png)
 
-El agente no termino ni para 200 pasos ni para 500 pasos, en una prueba rápida el agente basado en modelo tampoco lo logró. Ni tampoco los restantes agentes lo lograrón. Por lo que se decide en este paso crear un mundo más fácil con motivos de ver si el agente lo logra. Este ambientes es:
+Nota: El agente no termino ni para 200 pasos ni para 500 pasos. En una prueba rápida el agente basado en modelo tampoco lo logró. Tampoco los restantes agentes lograrón obtener éxito. Por lo que se decide crear un mundo más fácil con motivos de ver si el agente lo logra. Este mundo viene configurado con el ambiente:
 
 ### Ambiente Configuración 2
 Nombre del archivo de la configuración: mi_cueva_jcfe2_4x4.yaml
@@ -43,9 +43,5 @@ El modelo 05 basado en metas de igual manera lo logra a los 21 pasos con un scor
 ## Ejecución de "python 06_learning_agent.py --episodes 1500 --config config/mi_cueva_jcfe2_4x4.yaml"
 El modelo 06 basado en metas de igual manera lo logra a los 11 pasos con un score de 989.00.
 ![Texto alternativo](./imagenes/08.png)
-
-
-
-
 
 
