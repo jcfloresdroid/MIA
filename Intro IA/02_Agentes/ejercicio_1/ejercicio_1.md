@@ -51,6 +51,7 @@ El modelo 06 basado en metas de igual manera lo logra a los 11 pasos con un scor
 R= Para la primera configuración mi_cueva_jcfe_4x4.yaml ningún agente lo logró incluso configurando a 500 pasos. 
 Para la segunda configuración mi_cueva_jcfe2_4x4.yaml a excepción del agente simple por reflejo, todos los demás agentes lo lograrón. 
 
-¿Por qué el agente de reflejo simple falla (o tiene suerte) en tu diseño?
+***¿Por qué el agente de reflejo simple falla (o tiene suerte) en tu diseño?***
+R = El agente de reflejo simple no tiene memoria, solo se basa en la percepción actual lo que puede conducir a bucles infinitos y hace más difícil llegar a una solución. En cambio el agente basado en modelo tiene memoria y un motor de inferencia. 
 
 ¿Cómo cambia el resultado del agente basado en modelo si acercas o alejas un pit de la casilla inicial?
