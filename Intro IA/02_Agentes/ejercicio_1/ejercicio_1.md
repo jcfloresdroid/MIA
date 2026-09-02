@@ -1,5 +1,7 @@
 # Agentes Ejercicio 1
 ## Joel Cristoper Flores Escalante
+***jcflores@uacam.mx***
+***a26216692@alumnos.uady.mx***
 
 ### Ambiente Configuración 1
 Nombre del archivo de la configuración: mi_cueva_jcfe_4x4.yaml
