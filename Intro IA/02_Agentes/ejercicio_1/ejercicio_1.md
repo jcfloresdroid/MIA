@@ -80,3 +80,14 @@ De hecho los demás agentes tampoco lo logran, incluso en el basado en utilidad 
 ![Texto alternativo](./imagenes/10.png)
 
 Analizando el problema se vuelve más complejo debido a la falta de información tan temprana que genera el tener un pit cerca. 
+
+## Reto opcional 
+Se configuro el mundo 4 (mi_cueva_jcfe4_4x4.yaml):
+
+![Texto alternativo](./imagenes/mundo4.png)
+
+Y solo el agente 05, el basado en utilidad logró matar al Wumpus:
+
+![Texto alternativo](./imagenes/11.png)
+
+# FIN. Muchas Gracias =)
