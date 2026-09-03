@@ -25,10 +25,17 @@ Describe PEAS para cada una de estas aplicaciones:
 
 **Aplicación:** Robot aspirador doméstico
 
-- **Performance:** 
-- **Environment:** 
-- **Actuators:** 
-- **Sensors:** 
+- **Performance:** La calidad de la limpieza, cubrir la totalidad o mayoría de la superficie a limpiar, el correcto mapeo del piso o área de limpieza, la habilidad para esquivar obstáculos, el regreso a su base para cargar energía. 
+- **Environment:** El piso de la casa u oficina, los objetos, el ambiente. El ambiente es parcialmente observable hasta donde le permita el alcance de sus sensores. Seria continuo y estocástico. 
+- **Actuators:** Las escobas/cepillos para barrer, la espiradora, los diversos motores usados para desplazarse.
+- **Sensors:** Sensores de proximidad, movimiento, sensores de mapeo de area, sensores de choque, acelerómetro, cámaras.
+
+**Aplicación:** Sistema de recomendación de streaming 
+
+- **Performance:** Escala de calificación en base a estrellas o likes para medir la satisfacción del usuario en cuanto a la recomendación. Recomendaciones no tan conocidas pero del gusto del cliente, cantidad de clics o accesos del usuario a las recomendaciones. QUe el usuario termine completa una recomendación.   
+- **Environment:**  Base de datos de las películas, catálogos, clasificaciones. El ambiente es estocastico y discreto (catalogo finito) 
+- **Actuators:** El software, la interfaz gráfica del usuario (GUI), las APIS. 
+- **Sensors:**  La red, los eventos del usuario (clics, reproducir, pausar, calificar, etc)  
 
 **Aplicación:** termostato inteligente de una casa.
 
