@@ -1,5 +1,9 @@
 # Ejercicio 2
 ## Joel Cristoper Flores Escalante
+***jcflores@uacam.mx***
+
+***a26216692@alumnos.uady.mx***
+
 
 ## Aplicaciones a analizar
 
@@ -65,7 +69,7 @@ Describe PEAS para cada una de estas aplicaciones:
 - **Actuators:** Sistema de vuelo, las hélices, motores, luces
 - **Sensors:** cámaras, sensores de navegación, sensores del medio ambiente.
 
-  **8. Aplicación:** 
+**8. Aplicación:** 
 
 - **Performance :** Maximizar las victorias, tiempo al ganar.
 - **Environment:** Observable y determinista. Tablero de ajedrez, piezas. Pueden ser físicas o virtuales
