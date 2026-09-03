@@ -74,7 +74,7 @@ R= Para responder esta pregunta, se crea el ambiente de configuración 3 (mi_cue
 
 ![Texto alternativo](./imagenes/mundo3.png)
 
-Para esta configuración el agente basado en modelo no lo lográ.
+Para esta configuración el agente basado en modelo no lo lográ. Se cicla en un casilla se queda dando vueltas y no decide en cuál casilla seguir.
 
 ![Texto alternativo](./imagenes/09.png)
 
