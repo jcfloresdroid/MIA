@@ -89,7 +89,7 @@ Se configuro el mundo 4 (mi_cueva_jcfe4_4x4.yaml):
 
 ![Texto alternativo](./imagenes/mundo4.png)
 
-Y solo el agente 05, el basado en utilidad logró matar al Wumpus:
+Y solo el agente 05, el basado en utilidad logró matar al Wumpus y regresar con el oro a la casilla 1,1.
 
 ![Texto alternativo](./imagenes/11.png)
 
