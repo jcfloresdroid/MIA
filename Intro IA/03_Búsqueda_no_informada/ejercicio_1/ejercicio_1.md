@@ -30,11 +30,23 @@ python 01_romania_map.py --from-city Timisoara
 | UCS | success | 4 | 435 | 11 | 28 | 4 |  Timisoara → Arad → Sibiu → Rimnicu Vilcea → Pitesti |
 | DFS | sucess | 5 | 669 | 6 | 17 | 7 |  Timisoara → Arad → Sibiu → Fagaras → Bucharest → Pitesti |
 | DLS limit=2 | cutoff |  |  | 3 | 8 | 5 |  |
-| DLS limit=3 | cutoff |  |  | 6 | 16 | 7 |  |
+| DLS limit=4 | success | 4 | 435 | 6 | 13 | 7 | Timisoara → Arad → Sibiu → Rimnicu Vilcea → Pitesti |
+| IDS | success | 4 | 435 | 16 | 41 | 7 |  Timisoara → Arad → Sibiu → Rimnicu Vilcea → Pitesti |
+
 
 ### Ejecución de 02_breadth_first_search.py --from-city Timisoara --to Pitesti
 
 ![Texto alternativo](./imagenes/bfs.png)
+
+🟨 [ Timisoara ] 🟨 (d=0)
+                               /                  \
+                       🟨 [ Arad ] 🟨              [ Lugoj ] (d=1)
+                      /              \                 |
+              [ Zerind ]      🟨 [ Sibiu ] 🟨      [ Mehadia ] (d=2)
+                 |            /             \          |
+             [Oradea]    [Fagaras]  🟨 [R. Vilcea] 🟨 [Drobeta] (d=3)
+                            |       /              \
+                       (Bucharest)(Craiova)  🟨 ★ (PITESTI) ★ 🟨 (d=4) [¡META!]
 
 ### Ejecución de 03_uniform_cost_search.py --from-city Timisoara --to Pitesti
 
@@ -48,8 +60,12 @@ python 01_romania_map.py --from-city Timisoara
 
 ![Texto alternativo](./imagenes/dls.png)
 
-### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 3
+### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 4
 
-![Texto alternativo](./imagenes/dls2.png)
+![Texto alternativo](./imagenes/dls4.png)
+
+### Ejecución de 06_iterative_deepening_search.py --from-city Timisoara --to Pitesti 
+
+![Texto alternativo](./imagenes/ids.png)
 
 
