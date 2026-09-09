@@ -29,7 +29,8 @@ python 01_romania_map.py --from-city Timisoara
 | BFS | success | 4 | 435 | 9 | 22 | 5 | Timisoara → Arad → Sibiu → Rimnicu Vilcea → Pitesti
 | UCS | success | 4 | 435 | 11 | 28 | 4 |  Timisoara → Arad → Sibiu → Rimnicu Vilcea → Pitesti |
 | DFS | sucess | 5 | 669 | 6 | 17 | 7 |  Timisoara → Arad → Sibiu → Fagaras → Bucharest → Pitesti |
-| DLS | cutoff |  |  | 3 | 8 | 5 |  |
+| DLS limit=2 | cutoff |  |  | 3 | 8 | 5 |  |
+| DLS limit=3 | cutoff |  |  | 6 | 16 | 7 |  |
 
 ### Ejecución de 02_breadth_first_search.py --from-city Timisoara --to Pitesti
 
@@ -46,5 +47,9 @@ python 01_romania_map.py --from-city Timisoara
 ### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 2
 
 ![Texto alternativo](./imagenes/dls.png)
+
+### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 3
+
+![Texto alternativo](./imagenes/dls2.png)
 
 
