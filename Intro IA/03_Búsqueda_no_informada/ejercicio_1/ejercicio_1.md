@@ -44,20 +44,30 @@ python 01_romania_map.py --from-city Timisoara
 
 ![Texto alternativo](./imagenes/ucs.png)
 
+![Texto alternativo](./imagenes/ucs1.png)
+
 ### Ejecución de 04_depth_first_search.py --from-city Timisoara --to Pitesti
 
 ![Texto alternativo](./imagenes/dfs.png)
+
+![Texto alternativo](./imagenes/dfs1.png)
 
 ### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 2
 
 ![Texto alternativo](./imagenes/dls.png)
 
+![Texto alternativo](./imagenes/dls1.png)
+
 ### Ejecución de 05_depth_limited_search.py --from-city Timisoara --to Pitesti --limit 4
 
 ![Texto alternativo](./imagenes/dls4.png)
 
+![Texto alternativo](./imagenes/dls41.png)
+
 ### Ejecución de 06_iterative_deepening_search.py --from-city Timisoara --to Pitesti 
 
 ![Texto alternativo](./imagenes/ids.png)
+
+![Texto alternativo](./imagenes/ids1.png)
 
 
