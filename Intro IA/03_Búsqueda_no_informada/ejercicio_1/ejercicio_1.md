@@ -38,15 +38,7 @@ python 01_romania_map.py --from-city Timisoara
 
 ![Texto alternativo](./imagenes/bfs.png)
 
-🟨 [ Timisoara ] 🟨 (d=0)
-                               /                  \
-                       🟨 [ Arad ] 🟨              [ Lugoj ] (d=1)
-                      /              \                 |
-              [ Zerind ]      🟨 [ Sibiu ] 🟨      [ Mehadia ] (d=2)
-                 |            /             \          |
-             [Oradea]    [Fagaras]  🟨 [R. Vilcea] 🟨 [Drobeta] (d=3)
-                            |       /              \
-                       (Bucharest)(Craiova)  🟨 ★ (PITESTI) ★ 🟨 (d=4) [¡META!]
+![Texto alternativo](./imagenes/bfs1.png)
 
 ### Ejecución de 03_uniform_cost_search.py --from-city Timisoara --to Pitesti
 
