@@ -70,4 +70,8 @@ python 01_romania_map.py --from-city Timisoara
 
 ![Texto alternativo](./imagenes/ids1.png)
 
+## Conclusión
+
+Gracias Doctor. Victor, el ejercicio me hizo repasar sobre el funcionamiento y el ¿por qué? de varios sucesos con los algoritmos.
+
 
