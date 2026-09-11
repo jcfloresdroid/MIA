@@ -14,7 +14,7 @@
 
 ***--to Pitesti*** 
 
-### h(n) de la ruta
+### h(n) de la ruta. Distancia euclidiana del mapa generado por el script 02 
 
 ![Texto alternativo](./imagenes/h.png)
 
@@ -32,6 +32,11 @@
 ### Ejecución python 04_a_star_search.py --from-city Timisoara --to Pitesti
 
 ![Texto alternativo](./imagenes/a.png)
+
+### Comparación nodos
+ Greedy expande Lugo: Empieza en Timisoara, expande Arad y Lugo. Elige lugo por tener menor h (155 < 260)
+
+ A* Empieza con Timisoara, expande Arad y luego, Medahia, pero al llegar Drobeta el costo es mayor que probar con Arad (378 < 426) asi que retoma la ruta de Arad. 
 
 ## Conclusión
 
