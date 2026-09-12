@@ -40,6 +40,6 @@
 
 ## Conclusión
 
-Gracias Doctor. Victor, el ejercicio me hizo repasar sobre el funcionamiento y el ¿por qué? de varios sucesos con los algoritmos.
+El ejercicio me hizo repasar sobre el funcionamiento y el ¿por qué? de varios sucesos interesantes con los algoritmos.
 
 
