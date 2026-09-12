@@ -52,7 +52,7 @@
 ![Texto alternativo](./imagenes/colab2.png)
 
 
-## Conclusión dadas
+## Conclusión 
 
 En keras es mucho más fácil hacer la adaptación de una nueva capa, sin embargo todo el proceso de aprendizaje y ver como se va haciendo los cálculos se entiende más en el percertron sin API.
 
