@@ -10,7 +10,7 @@ Ejercicio 1: Perceptrón multicapa
 
 ### Ejecución con datos sin modificar
 
-![](.\imagenes\blobs1.png)
+![](\imagenes\blobs1.png)
 
 ![](.\imagenes\colab1.png)
 
