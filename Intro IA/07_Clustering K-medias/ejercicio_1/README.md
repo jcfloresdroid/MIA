@@ -10,28 +10,28 @@ Ejercicio 1: Perceptrón multicapa
 
 ### Ejecución con datos sin modificar
 
-![Texto alternativo](.\imagenes\blobs1.png)
+![Texto alternativo](./imagenes/blobs1.png)
 
-![](.\imagenes\colab1.png)
+![](./imagenes/colab1.png)
 
-![](.\imagenes\colab2.png)
+![](./imagenes/colab2.png)
 
-![](.\imagenes\boroni.png)
+![](./imagenes/boroni.png)
 
 
 
-![](.\imagenes\blobplots.png)
+![](./imagenes/blobplots.png)
 
-![](.\imagenes\elbow.png)
+![](./imagenes/elbow.png)
 
 ### Ejecución con datos modificados y ajuste de medias
 
-![](.\imagenes\blob2.png)
+![](./imagenes/blob2.png)
 
-![](.\imagenes\blobplots2.png)
+![](./imagenes/blobplots2.png)
 
-![](.\imagenes\centroides2.png)
+![](./imagenes/centroides2.png)
 
-![](.\imagenes\elbow2.png)
+![](./imagenes/elbow2.png)
 
 
